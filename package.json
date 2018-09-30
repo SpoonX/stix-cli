@@ -32,7 +32,6 @@
     "stix": "lib/index.js"
   },
   "dependencies": {
-    "stix": "^4.0.1",
     "tabtab": "^2.2.2"
   },
   "license": "MIT"
