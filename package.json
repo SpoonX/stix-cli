@@ -1,6 +1,6 @@
 {
   "name": "stix-cli",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "The CLI for stix framework.",
   "repository": {
     "type": "git",
@@ -8,7 +8,9 @@
   },
   "author": "RWOverdijk <r.w.overdijk@gmail.com>",
   "main": "lib/index.js",
-  "files": ["lib"],
+  "files": [
+    "lib"
+  ],
   "keywords": [
     "api",
     "framework",
