@@ -1,6 +1,6 @@
 {
   "name": "stix-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The CLI for stix framework.",
   "repository": {
     "type": "git",
