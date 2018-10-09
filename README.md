@@ -1,4 +1,6 @@
-# stix-cli
+# ![Stix cli](./stix-cli.svg)
+
+[![Slack Status](https://spoonx-slack.herokuapp.com/badge.svg)](https://spoonx-slack.herokuapp.com)
 
 The CLI for stix, bringing you some sugary goodness.
 
