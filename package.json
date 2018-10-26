@@ -32,7 +32,8 @@
     "stix": "lib/index.js"
   },
   "dependencies": {
-    "tabtab": "^2.2.2"
+    "tabtab": "^2.2.2",
+    "tape-roller": "^2.0.0"
   },
   "license": "MIT"
 }
