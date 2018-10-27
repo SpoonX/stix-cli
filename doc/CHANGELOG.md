@@ -1,3 +1,13 @@
+<a name="1.0.1"></a>
+## [1.0.1](https://github.com/SpoonX/stix-cli/compare/v1.0.0...v1.0.1) (2018-10-27)
+
+
+### Bug Fixes
+
+* **project:** import once sure stix exists ([3b42680](https://github.com/SpoonX/stix-cli/commit/3b42680))
+
+
+
 <a name="1.0.0"></a>
 # [1.0.0](https://github.com/SpoonX/stix-cli/compare/v0.0.2...v1.0.0) (2018-10-27)
 
