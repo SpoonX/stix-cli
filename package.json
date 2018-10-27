@@ -32,6 +32,9 @@
     "stix": "lib/index.js"
   },
   "dependencies": {
+    "chalk": "^2.4.1",
+    "cli-spinner": "^0.2.8",
+    "command-line-usage": "^5.0.5",
     "tabtab": "^2.2.2",
     "tape-roller": "^2.0.0"
   },
