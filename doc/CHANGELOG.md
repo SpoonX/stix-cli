@@ -1,3 +1,13 @@
+<a name="1.1.1"></a>
+## [1.1.1](https://github.com/SpoonX/stix-cli/compare/v1.1.0...v1.1.1) (2018-11-03)
+
+
+### Bug Fixes
+
+* **project:** only log errors on actual failures ([3b8c295](https://github.com/SpoonX/stix-cli/commit/3b8c295))
+
+
+
 <a name="1.1.0"></a>
 # [1.1.0](https://github.com/SpoonX/stix-cli/compare/v1.0.2...v1.1.0) (2018-11-03)
 
