@@ -1,3 +1,12 @@
+# [1.2.0](https://github.com/SpoonX/stix-cli/compare/v1.1.1...v1.2.0) (2019-02-02)
+
+
+### Features
+
+* **project:** add dotenv support ([5f2113f](https://github.com/SpoonX/stix-cli/commit/5f2113f))
+
+
+
 <a name="1.1.1"></a>
 ## [1.1.1](https://github.com/SpoonX/stix-cli/compare/v1.1.0...v1.1.1) (2018-11-03)
 
